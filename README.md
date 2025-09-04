@@ -1,4 +1,4 @@
-# Supplier Quality and Performance Dashboard
+# Supplier Quality and Performance Analysis
 ## Overview
 
 This repository hosts a Power BI project designed to monitor and analyze supplier quality and performance across various dimensions, including vendors, plants, materials, and defect categories. The dashboard offers a holistic view of defects, production downtime, and related financial impacts, enabling manufacturers to pinpoint problem areas and take corrective actions to enhance supplier quality and operational efficiency.
